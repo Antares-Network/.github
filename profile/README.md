@@ -10,6 +10,8 @@
 
 - 👯 We're looking to collaborate on [MultiESP](https://github.com/Antares-Network/MultiESP)
 
+- 🕝 Future project will be a dashboard for [Antares Bot](https://github.com/Antares-Network/AntaresBot) at [Ares](https://github.com/Antares-Network/Ares)
+
 - 🤝 We're looking for help with [Bungee Automatic Server Manager](https://github.com/Antares-Network/BASM)
 
 - 👨‍💻 All of our projects are available at [https://github.com/Antares-Network](https://github.com/Antares-Network)
