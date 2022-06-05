@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Antares-Network&label=Profile%20views&color=0e75b6&style=flat" alt="Antares-Network" /> </p>
 
 
-- 🔭 We're currently working on [Antares Bot](https://github.com/Antares-Network/AntaresBot)
+- 🔭 We're currently working on [Forest Friends](https://github.com/Antares-Network/ForestFriends)
 
 - 🏫 We're all currently in university, so projects are slow 🤷
 
